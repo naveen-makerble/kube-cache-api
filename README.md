@@ -117,7 +117,7 @@ curl -H "X-User-ID: bob" "http://localhost:8080/pods"
 ## Extending This Project
 - Add support for other Kubernetes resources (Deployments, Services, etc).
 - Add manual cache invalidation endpoints.
-- Add metrics (cache hits/misses, request latency).
+- Add metrics (cache hits/misses, request latency)
 - Add authentication/authorization.
 - Build a frontend to consume the API.
 
